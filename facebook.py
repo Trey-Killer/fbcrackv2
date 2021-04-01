@@ -16,9 +16,10 @@ GHT = '''
         +=======================================+
         |..........Facebook Cracker v 2.........|
         +---------------------------------------+
-        |#Author: Mauritania Attacker           |
-        |#Contact: www.fb.com/mauritanie.forever|
-        |#Date: 02/04/2013                      |
+        |#Author: Trey Killer                   |
+        |#Contact: www.github.com/Trey-Killer   |
+        |#Instagram: @lxm3n96                   |
+        |#Date: 02/04/2021                      |
         |#This tool is made for pentesting.     |
         |#Changing the Description of this tool |
         |Won't made you the coder ^_^ !!!       |
